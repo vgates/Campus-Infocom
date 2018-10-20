@@ -1,0 +1,20 @@
+/* CSS Document */
+
+.box {
+	color: #0000CC;
+	font-size:11px;
+	font-family: "Arial";
+	width:125;
+}
+
+.text {
+	color: #0066FF; font-size:11px;font-family: "Arial";
+}
+.butstyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #FFFFFF;
+	background-color:#67C4FF;
+	cursor: hand;
+}

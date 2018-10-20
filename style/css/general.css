@@ -1,0 +1,54 @@
+/* CSS Document */
+
+.title {
+	color: #0000FF; font-weight:bold;
+}
+.news {
+	color: #0066FF;
+	font-weight: bold;
+	font-family: "Times New Roman";
+}
+.box {
+	color: #0000CC;
+	font-size:11px;
+	font-family: "Arial";
+	width:200;
+}
+.boxHide {
+	color: #0000CC;
+	font-size:11px;
+	font-family: "Arial";
+	width:250;
+	border-style:none;
+	cursor:default;
+}
+.boxDMY {
+	color: #0000CC;
+	font-size:11px;
+	font-family: "Arial";
+	width:30;
+}
+.text {
+	color: #0066FF; font-size:11px;font-family: "Arial"; font-weight:bold;
+}
+.butstyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #FFFFFF;
+	background-color:#67C4FF;
+	cursor:auto;
+}
+.notice{
+color:#666666;
+font-size:9px;
+font-family:"Verdana";
+}
+.tableHead{
+font-size:14px;
+font-family:"Times New Roman";
+}
+.tableSubHead{
+font-size:12px;
+font-family:"Times New Roman";
+}
